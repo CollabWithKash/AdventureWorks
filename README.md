@@ -8,9 +8,13 @@ Key Highlights
 Business Metrics
 
 Revenue: $24.9M (Monthly growth: +3.31%).
+
 Profit: $10.5M (Near target, requires closer analysis by product and region).
+
 Orders: 25.2K (Slight decline from previous month: -0.88%).
+
 Return Rate: 2.2% (High return rates for certain products).
+
 Customers: 17.4K unique customers, with an average revenue per customer of $1,431.
 
 Insights
@@ -33,10 +37,13 @@ Local Access
 
 Interactive Features
 
-•	Filters: Refine data by time - period, region, and product category.
-•	Drill-downs: Gain detailed insights on revenue, orders, and returns.
-•	Key Influencers Visual: Understand drivers behind performance metrics.
-•	Decomposition Tree: Break down complex metrics like revenue or profit into their contributing factors for granular insights.
+Filters: Refine data by time - period, region, and product category.
+
+Drill-downs: Gain detailed insights on revenue, orders, and returns.
+
+Key Influencers Visual: Understand drivers behind performance metrics.
+
+Decomposition Tree: Break down complex metrics like revenue or profit into their contributing factors for granular insights.
 
 Use of AI Tools
 
