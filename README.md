@@ -42,9 +42,9 @@ Use of AI Tools
 
 This report leverages advanced AI tools, such as:
 
-•	Decomposition Tree: Helps identify and visualize how different factors contribute to key metrics like revenue and profit. By drilling down into dimensions such as product categories, regions, and time periods, this visual enables an intuitive exploration of how various elements influence overall performance.
+Decomposition Tree: Helps identify and visualize how different factors contribute to key metrics like revenue and profit. By drilling down into dimensions such as product categories, regions, and time periods, this visual enables an intuitive exploration of how various elements influence overall performance.
 
-•	Key Influencer Visuals: Provides data-driven insights into the factors influencing specific outcomes, such as customer retention or product returns. For instance, it highlights how income levels or product categories impact return rates, allowing for targeted interventions.
+Key Influencer Visuals: Provides data-driven insights into the factors influencing specific outcomes, such as customer retention or product returns. For instance, it highlights how income levels or product categories impact return rates, allowing for targeted interventions.
 
 These tools enable deeper analysis, uncovering hidden patterns and trends that drive actionable decisions. By using these AI-driven visuals, users can move beyond basic reporting to predictive and prescriptive analytics, improving strategic planning and operational efficiency.
 
